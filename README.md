@@ -39,7 +39,7 @@ pip
 # Clone the repository:
 
 
-git clone https://github.com/your-username/house-price-prediction-dashboard.git
+git clone    https://github.com/Ajaygenuinedoubt/House_Price_Prediction
 Navigate to the project directory:
 
 
